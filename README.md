@@ -4,7 +4,7 @@ This is a simple **Expense Tracker** built using **HTML**, **CSS**, and **JavaSc
 
 ## 🔗 Demo
 
-You can check out the live demo of the project here: [Expense Tracker]([(https://ashishvelhal.github.io/Expences_Tracker/)])
+You can check out the live demo of the project here: [Expense Tracker]((https://ashishvelhal.github.io/Expences_Tracker/))
 
 ---
 
