@@ -4,7 +4,7 @@ This is a simple **Expense Tracker** built using **HTML**, **CSS**, and **JavaSc
 
 ## 🔗 Demo
 
-You can check out the live demo of the project here: [Expense Tracker](https://yourusername.github.io/expense-tracker/)
+You can check out the live demo of the project here: [Expense Tracker]([https://yourusername.github.io/expense-tracker/](https://ashishvelhal.github.io/Expences_Tracker/))
 
 ---
 
@@ -14,12 +14,6 @@ You can check out the live demo of the project here: [Expense Tracker](https://y
 - View a list of all expenses with total expenditure.
 - Delete expenses to keep track of your budget.
 - Responsive design, compatible with mobile devices.
-
----
-
-## 📷 Screenshot
-
-![Expense Tracker Screenshot](./Expense_Tracker.png)
 
 ---
 
