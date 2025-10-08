@@ -54,6 +54,7 @@ To run this project locally:
 ## 🧑‍💻 Author
 
 **Ashish Velhal**  
+
 I'm a passionate web developer focused on creating user-friendly and interactive web applications.  
 Check out more of my projects below and feel free to connect!
 
